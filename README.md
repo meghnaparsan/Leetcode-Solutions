@@ -4,7 +4,9 @@ This Repository contains Solutions for Leetcode Problems
 
 | Question | Solution | Difficulty Level | Tags |
 | --- | --- | --- | --- |
+| [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java Solution](Strings/ImplementStrStr.java) | Easy | String |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java Solution](DynamicProgramming/UniquePaths.java) | Easy | Dynamic Programming |
+| [67. Add Binary](https://leetcode.com/problems/add-binary/) | [Java Solution](Strings/AddBinary.java) | Easy | Strings |
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java Solution](HashTable/RansomNote.java) | Easy | Hash Table |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java Solution](Arrays/MaxConsecutiveOnes.java) | Easy | Array |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java Solution](Arrays/FizzBuzz.java) | Easy | Arrays |
