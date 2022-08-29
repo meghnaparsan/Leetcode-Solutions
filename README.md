@@ -4,10 +4,13 @@ This Repository contains Solutions for Leetcode Problems
 
 | Question | Solution | Difficulty Level | Tags |
 | --- | --- | --- | --- |
+| [20. Valid Parentheses](hhttps://leetcode.com/problems/valid-parentheses/) | [Java Solution](Stack/ValidParentheses.java) | Easy | Stack |
 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java Solution](Strings/ImplementStrStr.java) | Easy | String |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java Solution](DynamicProgramming/UniquePaths.java) | Easy | Dynamic Programming |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | [Java Solution](Strings/AddBinary.java) | Easy | Strings |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java Solution](LinkedList/LinkedListCycle.java) | Easy | Linked List |
+| [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java Solution](Stack/ReversePolishEvaluation.java) | Medium | Stack |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/) | [Java Solution](Stack/MinStack.java) | Medium | Stack |
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java Solution](HashTable/RansomNote.java) | Easy | Hash Table |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java Solution](Arrays/MaxConsecutiveOnes.java) | Easy | Array |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java Solution](Arrays/FizzBuzz.java) | Easy | Arrays |
