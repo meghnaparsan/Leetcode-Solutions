@@ -17,7 +17,7 @@ This Repository contains Solutions for Leetcode Problems
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java Solution](Arrays/FizzBuzz.java) | Easy | Arrays |
 | [4622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Java Solution](Queue/DesignCircularQueue.java) | Medium | Queue |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Java Solution](LinkedList/DesignLinkedList.java) | Medium | Linked List |
-| [876. Middle of the Linked List](hhttps://leetcode.com/problems/middle-of-the-linked-list/) | [Java Solution](LinkedList/MiddleNode.java) | Easy | Linked List |
+| [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java Solution](LinkedList/MiddleNode.java) | Easy | Linked List |
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Java Solution](Arrays/MorseCode.java) | Easy | Arrays, String, Hashset |
 | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java Solution](BitManipulation/NumberOfStepsToReduceANumberToZero.java) | Easy | Math, Bit Manipulation |
 | [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Java Solution](Arrays/RunningSum.java) | Easy | Arrays |
