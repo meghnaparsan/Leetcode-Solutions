@@ -4,7 +4,7 @@ This Repository contains Solutions for Leetcode Problems
 
 | Question | Solution | Difficulty Level | Tags |
 | --- | --- | --- | --- |
-| [20. Valid Parentheses](hhttps://leetcode.com/problems/valid-parentheses/) | [Java Solution](Stack/ValidParentheses.java) | Easy | Stack |
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java Solution](Stack/ValidParentheses.java) | Easy | Stack |
 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java Solution](Strings/ImplementStrStr.java) | Easy | String |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java Solution](DynamicProgramming/UniquePaths.java) | Easy | Dynamic Programming |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | [Java Solution](Strings/AddBinary.java) | Easy | Strings |
