@@ -15,6 +15,7 @@ This Repository contains Solutions for Leetcode Problems
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java Solution](HashTable/FirstUniqueCharacter.java) | Easy | Hash Table |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java Solution](Arrays/MaxConsecutiveOnes.java) | Easy | Array |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java Solution](Arrays/FizzBuzz.java) | Easy | Arrays |
+| [4622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Java Solution](Queue/DesignCircularQueue.java) | Medium | Queue |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Java Solution](LinkedList/DesignLinkedList.java) | Medium | Linked List |
 | [876. Middle of the Linked List](hhttps://leetcode.com/problems/middle-of-the-linked-list/) | [Java Solution](LinkedList/MiddleNode.java) | Easy | Linked List |
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Java Solution](Arrays/MorseCode.java) | Easy | Arrays, String, Hashset |
