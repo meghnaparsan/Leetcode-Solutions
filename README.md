@@ -12,6 +12,7 @@ This Repository contains Solutions for Leetcode Problems
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java Solution](Stack/ReversePolishEvaluation.java) | Medium | Stack |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [Java Solution](Stack/MinStack.java) | Medium | Stack |
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java Solution](HashTable/RansomNote.java) | Easy | Hash Table |
+| [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java Solution](HashTable/FirstUniqueCharacter.java) | Easy | Hash Table |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java Solution](Arrays/MaxConsecutiveOnes.java) | Easy | Array |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java Solution](Arrays/FizzBuzz.java) | Easy | Arrays |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Java Solution](LinkedList/DesignLinkedList.java) | Medium | Linked List |
