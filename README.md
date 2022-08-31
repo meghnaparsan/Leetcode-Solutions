@@ -8,7 +8,11 @@ This Repository contains Solutions for Leetcode Problems
 | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java Solution](Strings/ImplementStrStr.java) | Easy | String |
 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/) | [Java Solution](DynamicProgramming/UniquePaths.java) | Easy | Dynamic Programming |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | [Java Solution](Strings/AddBinary.java) | Easy | Strings |
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java Solution](Tree/InOrderTraversal.java) | Easy | Tree |
+| [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java Solution](Tree/LevelOrderTraversal.java) | Medium | Tree |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java Solution](LinkedList/LinkedListCycle.java) | Easy | Linked List |
+| [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java Solution](Tree/PreorderTraversal.java) | Easy | Tree |
+| [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java Solution](Tree/PostOrderTraversal.java) | Easy | Tree |
 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java Solution](Stack/ReversePolishEvaluation.java) | Medium | Stack |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [Java Solution](Stack/MinStack.java) | Medium | Stack |
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java Solution](HashTable/RansomNote.java) | Easy | Hash Table |
