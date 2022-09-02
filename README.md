@@ -20,6 +20,7 @@ This Repository contains Solutions for Leetcode Problems
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java Solution](Arrays/MaxConsecutiveOnes.java) | Easy | Array |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java Solution](Arrays/FizzBuzz.java) | Easy | Arrays |
 | [422. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Java Solution](Queue/DesignCircularQueue.java) | Medium | Queue |
+| [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java Solution](Trees//AverageOfLevelsBinaryTree.java) | Easy | Tree |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Java Solution](LinkedList/DesignLinkedList.java) | Medium | Linked List |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java Solution](Arrays/PivotIndex.java) | Easy | Array, PrefixSum |
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java Solution](LinkedList/MiddleNode.java) | Easy | Linked List |
