@@ -18,9 +18,12 @@ This Repository contains Solutions for Leetcode Problems
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [Java Solution](Stack/MinStack.java) | Medium | Stack |
 | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java Solution](HashTable/RansomNote.java) | Easy | Hash Table |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java Solution](HashTable/FirstUniqueCharacter.java) | Easy | Hash Table |
+| [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Java Solution](Strings/IsSubsequence.java) | Easy | String |
 | [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Java Solution](Arrays/MaxConsecutiveOnes.java) | Easy | Array |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java Solution](Arrays/FizzBuzz.java) | Easy | Arrays |
 | [422. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Java Solution](Queue/DesignCircularQueue.java) | Medium | Queue |
+| [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [Java Solution](Tree/NAryLevelOrderTraversal.java) | Medium | Tree |
+| [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Java Solution](Tree/NAryPreorderTraversal.java) | Easy | Tree |
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java Solution](Tree/AverageLevelOfBinaryTree.java) | Easy | Tree |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Java Solution](LinkedList/DesignLinkedList.java) | Medium | Linked List |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java Solution](Arrays/PivotIndex.java) | Easy | Array, PrefixSum |
