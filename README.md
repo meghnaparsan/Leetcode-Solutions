@@ -27,8 +27,9 @@ This Repository contains Solutions for Leetcode Problems
 | [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Java Solution](Tree/AverageLevelOfBinaryTree.java) | Easy | Tree |
 | [707. Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Java Solution](LinkedList/DesignLinkedList.java) | Medium | Linked List |
 | [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Java Solution](Arrays/PivotIndex.java) | Easy | Array, PrefixSum |
-| [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java Solution](LinkedList/MiddleNode.java) | Easy | Linked List |
 | [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Java Solution](Arrays/MorseCode.java) | Easy | Arrays, String, Hashset |
+| [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [Java Solution](Tree/BinaryTreePruning.java) | Medium | Tree |
+| [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java Solution](LinkedList/MiddleNode.java) | Easy | Linked List |
 | [967. Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [Java Solution](Backtracking/ConsecutiveNumbersWithSameDiff.java) | Medium | Backtracking |
 | [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Java Solution](BitManipulation/NumberOfStepsToReduceANumberToZero.java) | Easy | Math, Bit Manipulation |
 | [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [Java Solution](Tree/GoodNodeInBinaryTree.java) | Medium | Tree |
